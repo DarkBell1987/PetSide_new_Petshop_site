@@ -48,3 +48,10 @@ body{
     background-color: rgb(235, 149, 213);
     padding: 10px;
 }
+
+.logo{
+    position: sticky;
+    background-color: dimgrey;
+    top: 0;
+    display: flex;
+}
